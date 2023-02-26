@@ -50,5 +50,7 @@ sudo bash basic-install.sh
 
 Method 2: Manually download the installer and run
 
-wget -O basic-install.sh https://install.pi-hole.net
-sudo bash basic-install.sh
+    wget -O basic-install.sh https://install.pi-hole.net
+    sudo bash basic-install.sh
+
+I've also added the Pi-Hole tarball in the files.
