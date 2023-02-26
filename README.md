@@ -7,7 +7,7 @@ Pi-Hole adlists for blocking
 
 There's 4 lists here:
 
-![preview](pics/pihole3.png)
+![preview](pics/pihole4.png)
 
 Pi-Hole list:
  Title: StevenBlack/hosts
