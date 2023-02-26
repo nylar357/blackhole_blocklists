@@ -40,7 +40,8 @@ Grab those last 3 here :
 
 One-Step Automated Install
 
-Those who want to get started quickly and conveniently may install Pi-hole using the following command:
+Those who want to get started quickly and conveniently may install Pi-hole using the following command, although I would highly reccomend checking out the 
+current pihole website to see the documentation and requirements.  (https://pi-hole.net/)
 
     curl -sSL https://install.pi-hole.net | bash
     
