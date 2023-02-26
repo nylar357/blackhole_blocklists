@@ -4,7 +4,7 @@ adlist/blocklists you can add these lists to really any kind of adblocker whethe
 
 # There's 4 lists here:
 
-# StevenBlack List
+# StevenBlack List (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
     Pi-Hole list:
     Title: StevenBlack/hosts
     Number of unique domains: 184,034
