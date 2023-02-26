@@ -32,3 +32,23 @@ Non-Domains : 915
 Fanboy's Social Blocking List solely removes Social Media content on web pages such as the Facebook like button and other widgets.
 
 Grab those last 3 here : https://easylist.to/
+
+For installing the Pi-Hole software :
+
+One-Step Automated Install
+
+Those who want to get started quickly and conveniently may install Pi-hole using the following command:
+curl -sSL https://install.pi-hole.net | bash
+Alternative Install Methods
+
+Piping to bash is controversial, as it prevents you from reading code that is about to run on your system. Therefore, we provide these alternative installation methods which allow code review before installation:
+Method 1: Clone our repository and run
+
+git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+cd "Pi-hole/automated install/"
+sudo bash basic-install.sh
+
+Method 2: Manually download the installer and run
+
+wget -O basic-install.sh https://install.pi-hole.net
+sudo bash basic-install.sh
