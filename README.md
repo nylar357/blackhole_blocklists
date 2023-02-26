@@ -13,20 +13,20 @@ Fetch the latest version of this file: https://raw.githubusercontent.com/StevenB
 Project home page: https://github.com/StevenBlack/hosts
 Project releases: https://github.com/StevenBlack/hosts/releases
 
-# EasyList
+# EasyList (https://easylist.to/easylist/easylist.txt)
     Domains on List : 4640
     Non-Domains : 28,000
 
 EasyList is the primary filter list that removes most adverts from international webpages, including unwanted frames, images and objects. It is the most popular list used by many ad blockers and forms the basis of over a dozen combination and supplementary filter lists.
 
-# EasyPrivacy
+# EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
     
     Domains : 45
     Non-Domains : 20,080
 
 EasyPrivacy is an optional supplementary filter list that completely removes all forms of tracking from the internet, including web bugs, tracking scripts and information collectors, thereby protecting your personal data.
 
-# Fanboy's Social Blocking List
+# Fanboy's Social Blocking List (https://easylist.to/easylist/fanboy-social.txt)
     
     Domains : 2235
     Non-Domains : 915
