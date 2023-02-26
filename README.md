@@ -1,6 +1,7 @@
 
 adlist/blocklists you can add these lists to really any kind of adblocker whether its a browser extension or basically any kind of good adblock that can use lists.  
-# ι⨍ 丫ㄖㄩ ⼕闩爪🝗 ﾁ尺ㄖ爪 爪丫 "𝘀𝗼𝗰𝗶𝗮𝗹𝘇" セ卄𝓝〤 ﾁㄖ尺 〸卄🝗 讠𝓝〸🝗尺🝗丂七!
+# ι⨍ 丫ㄖㄩ ⼕闩爪🝗 ﾁ尺ㄖ爪 爪丫 𝘀𝗼𝗰𝗶𝗮𝗹𝘇 セ卄𝓝〤 
+# ﾁㄖ尺 〸卄🝗 讠𝓝〸🝗尺🝗丂七!
 
 ![preview](pics/pi.png)
 
