@@ -26,3 +26,5 @@ EasyPrivacy is an optional supplementary filter list that completely removes all
 
 Fanboy's Social Blocking List
 Fanboy's Social Blocking List solely removes Social Media content on web pages such as the Facebook like button and other widgets.
+
+Grab those last 3 here : https://easylist.to/
