@@ -1,13 +1,9 @@
 
 adlist/blocklists you can add these lists to really any kind of adblocker whether its a browser extension or basically any kind of good adblock that can use lists.
 
-![preview](pics/pihole1.png)
 
-![preview](pics/pihole2.png)
+# There's 4 lists here:
 
-There's 4 lists here:
-
-![preview](pics/pihole4.png)
 # StevenBlack List
     Pi-Hole list:
     Title: StevenBlack/hosts
@@ -63,3 +59,9 @@ Method 2: Manually download the installer and run
     sudo bash basic-install.sh
 
 # I've also added the Pi-Hole tarball in the files.
+
+![preview](pics/pihole1.png)
+
+![preview](pics/pihole2.png)
+
+![preview](pics/pihole4.png)
