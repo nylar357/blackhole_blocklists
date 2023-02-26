@@ -40,7 +40,7 @@ Fanboy's Social Blocking List solely removes Social Media content on web pages s
 Grab those last 3 here :     
     https://easylist.to/
 
-For installing the Pi-Hole software :
+# For installing the Pi-Hole software :
 
 One-Step Automated Install
 
@@ -62,4 +62,4 @@ Method 2: Manually download the installer and run
     wget -O basic-install.sh https://install.pi-hole.net
     sudo bash basic-install.sh
 
-I've also added the Pi-Hole tarball in the files.
+# I've also added the Pi-Hole tarball in the files.
